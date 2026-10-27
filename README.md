@@ -1,1 +1,1 @@
-Проект "Посмотри в окно"
+https://github.com/lislisan/posmotri-v-okno-ad
